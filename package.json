@@ -1,0 +1,13 @@
+{
+    "name": "content-builder-vue",
+    "description": "a content builder for vue",
+    "version": "1.0.0",
+    "private": false,
+    "author": {
+        "name": "Javad fathi",
+        "email": "jwadfthy2@gmail.com"
+    },
+    "repository": "https://github.com/javadfathy/contentBuilder",
+    "keywords": ["contentBuilder", "content builder", "vue","vue3","typescript","content builder by vue3"],
+    "license": "MIT"
+}
